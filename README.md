@@ -1,1 +1,1 @@
-# resident-evil-v6
+# ResidentEvilV2
